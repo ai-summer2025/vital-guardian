@@ -1,0 +1,5 @@
+# vital-guardian — requirements
+# Python standard library only — no external dependencies for core agent.
+# Optional: pytest for running test suite.
+
+pytest>=7.0
